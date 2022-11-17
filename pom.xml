@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.40.108:9980/mithuntechnologies/repository/walmart-release/</url>
+	      <name>prasanna nexus repository</name>
+	      <url>http://http://13.126.132.174:9980/prasanna/repository/Vishwa-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.40.108:9980/mithuntechnologies/repository/walmart-snapshot/</url>
+	      <name>prasanna nexus repository </name>
+	      <url>http://http://http://13.126.132.174:9980/prasanna/repository/Vishwa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
