@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>prasanna nexus repository</name>
-	      <url>http://13.126.132.174:9980/prasanna/repository/Vishwa-Release/</url>
+	      <name>Vishwa Technologies Nexus Repository</name>
+	      <url>http://13.127.184.34:9980/prasanna/repository/Vishwa-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>prasanna nexus repository </name>
-	      <url>http://13.126.132.174:9980/prasanna/repository/Vishwa-snapshot/</url>
+	      <name>Vishwa Technologies Snapshot Nexus Repository</name>
+	      <url>http://13.127.184.34:9980/prasanna/repository/Vishwa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
