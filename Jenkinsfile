@@ -8,7 +8,7 @@ node{
   
 //Checkout Code Stage
 stage('CheckoutCode'){
-git branch: 'development', credentialsId: '4ca03b7f-8e21-401a-b5df-7e52f888fa8b', url: 
+git branch: 'master', credentialsId: '4ca03b7f-8e21-401a-b5df-7e52f888fa8b', url: 
 'https://github.com/Vishwakar12/maven-web-application.git'
 }
 
