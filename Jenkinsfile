@@ -36,4 +36,5 @@ sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2user@172
 }
 
 }//node
-   */
+   
+ */
