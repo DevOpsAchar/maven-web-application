@@ -21,6 +21,7 @@ sh "mvn clean package"
 }
 }
 
+/*
 stage('ExecuteSonarQubeReport'){
 steps{
 sh "mvn clean sonar:sonar"
@@ -41,5 +42,6 @@ sh "scp -o  StrictHostKeyChecking=no target/maven-web-application.war ec2-user@1
 }
 }
 
+*/
 }//stage Closing
 }//pipeline closing
