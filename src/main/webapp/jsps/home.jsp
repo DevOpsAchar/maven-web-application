@@ -10,7 +10,11 @@
 </head>
 <body>
 <h1 align="center">Welcome to bengaluru</h1>
-<h1 align="center"> ("-") =====>> ('-') =====>> (  (())  )</h1>
+<h1 align="center">       | o  o |
+	                  |  ==  |
+	                //|______|\\
+	               //  ||  ||  \\
+	                   ||  ||</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
