@@ -9,12 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to bengalur</h1>
-<h1 align="center">       | o  o |       </h1>
-<h1 align="center">	  |  ==  |       </h1>
-<h1 align="center">     //|______|\\     </h1>
-<h1 align="center">    //  ||  ||  \\     </h1>
-<h1 align="center"> 	   ||  ||         </h1>
+<h1 align="center">HI</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
