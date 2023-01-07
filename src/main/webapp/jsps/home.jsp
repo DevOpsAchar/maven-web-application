@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to bengaluruu</h1>
+<h1 align="center">Welcome to bengaluru</h1>
 <h1 align="center">       | o  o |       </h1>
 <h1 align="center">	  |  ==  |       </h1>
 <h1 align="center">     //|______|\\     </h1>
