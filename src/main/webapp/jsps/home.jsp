@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">HI MAVEN PROJECT</h1>
+<h1 align="center">HI SCRIPTEDWAY</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
