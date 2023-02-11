@@ -16,7 +16,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Prasannasoftware solutions, 
 		Martha Halli,
 		Bangalore,
 		+91-9980923226,
