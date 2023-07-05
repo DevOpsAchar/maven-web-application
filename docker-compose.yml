@@ -9,3 +9,7 @@ services:
     - mavenappbridge
 networks:
   mavenappbridge:
+volumes:
+  mongovol:
+
+
