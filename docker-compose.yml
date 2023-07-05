@@ -11,5 +11,6 @@ networks:
   mavenappbridge:
 volumes:
   mongovol:
+    external: true
 
 
